@@ -1,0 +1,28 @@
+,Algorithm,Mean Absolute Error,Root Mean Squared Error,Relative Absolute Error,Relative Squared Error,Coefficient of Determination,,Best Model Selected
+Cluster A,Linear Regression,0.668899,0.824813,0.790712,0.655534,0.344466,,
+,Random Forest,0.612183,0.773475,0.723667,0.57647,0.42353,,
+,Neural Network,0.162843,0.261644,0.192498,0.065964,0.934036,,Yes
+,,,,,,,,
+Cluster D,Linear Regression,1.077386,1.345904,0.971464,0.908773,0.091227,,
+,Random Forest,0.692777,0.912604,0.624667,0.417823,0.582177,,
+,Neural Network,0.240351,0.389321,0.216721,0.07604,0.92396,,Yes
+,,,,,,,,
+Cluster C,Linear Regression,0.874416,1.08186,0.900715,0.817753,0.182247,,
+,Random Forest,0.627566,0.796171,0.646441,0.442887,0.557113,,
+,Neural Network,0.212147,0.34247,0.218528,0.081945,0.918055,,Yes
+,,,,,,,,
+Cluster B,Linear Regression,1.000882,1.181798,0.880532,0.74192,0.25808,,
+,Random Forest,0.245532,0.342322,0.199012,0.831122,0.450334,,
+,Neural Network,0.238879,0.326989,0.210155,0.056798,0.943202,,Yes
+,,,,,,,,
+Custer E,Linear Regression,1.421284,1.730528,0.913389,0.789679,0.210321,,
+,Random Forest,0.717741,0.922153,0.461256,0.224233,0.775767,,
+,Neural Network,0.2369,0.434025,0.152244,0.049673,0.950327,,Yes
+,,,,,,,,
+Cluster F,Linear Regression,1.082017,1.402405,0.787681,0.563184,0.43681,,
+,Random Forest,0.73325,0.944199,0.533788,0.255288,0.744712,,
+,Neural Network,0.325475,0.511221,0.236937,0.074838,0.925162,,Yes
+,,,,,,,,
+Cluster G,Linear Regression,0.822407,4.73346,0.536726,5.819134,-4.819134,,
+,Random Forest,0.577375,1.233317,0.376811,0.395049,0.604951,,
+,Neural Network,0.383972,0.601624,0.250591,0.094005,0.905995,,Yes
