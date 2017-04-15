@@ -1,2 +1,5 @@
 # Lending-Club-DataScience
-Data Science Models for the Lending Club Data
+Data Analysis and Data Science Models for Predicting Interest rates for the Lending Club Data
+
+
+![alt tag](http://Lending-Club-DataScience/Unsupervised Learning/Lending Club screenshots/Lending Club Part 2 Screenshots/LendingClubPrototype.PNG)
